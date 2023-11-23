@@ -1,0 +1,7 @@
+id: '998b860a-9ecc-4ee5-efbb-08dbec3ae6c6'
+version: 'v1.1'
+name: 'Training Vault and Mart'
+description: 'Training Vault and Mart'
+configuration:
+  id: 'biGENIUS.Implementation.Generator.VaultAndMart.Mssql'
+  version: '1.2.0'
